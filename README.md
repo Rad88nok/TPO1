@@ -1,5 +1,6 @@
 # TPO1
- Task: file channels
+Task: file channels
+
 Zadanie: kanały plikowe
 
 Katalog {user.home}/TPO1dir  zawiera pliki tekstowe umieszczone w tym katalogu i jego różnych podkatalogach. Kodowanie plików to Cp1250.
